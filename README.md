@@ -35,3 +35,7 @@ Projeto criado como desafio de uma vaga que concorri.
 5.Uuidv4
 
 6.Typescript
+
+7.CSS
+
+8.HTML
